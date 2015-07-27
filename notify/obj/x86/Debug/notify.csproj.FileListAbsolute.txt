@@ -1,0 +1,13 @@
+c:\documents and settings\sa\мои документы\visual studio 2010\Projects\notify\notify\bin\Debug\notify.exe
+c:\documents and settings\sa\мои документы\visual studio 2010\Projects\notify\notify\bin\Debug\notify.pdb
+c:\documents and settings\sa\мои документы\visual studio 2010\Projects\notify\notify\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\sa\мои документы\visual studio 2010\Projects\notify\notify\obj\x86\Debug\notify.Properties.Resources.resources
+c:\documents and settings\sa\мои документы\visual studio 2010\Projects\notify\notify\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\sa\мои документы\visual studio 2010\Projects\notify\notify\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\sa\мои документы\visual studio 2010\Projects\notify\notify\obj\x86\Debug\notify.exe
+c:\documents and settings\sa\мои документы\visual studio 2010\Projects\notify\notify\obj\x86\Debug\notify.pdb
+c:\documents and settings\sa\мои документы\visual studio 2010\Projects\notify\notify\obj\x86\Debug\notify.Main.resources
+c:\documents and settings\sa\мои документы\visual studio 2010\Projects\notify\notify\obj\x86\Debug\notify.f_settings.resources
+c:\documents and settings\sa\мои документы\visual studio 2010\Projects\notify\notify\bin\Debug\notify.exe.config
+C:\Documents and Settings\sa\мои документы\visual studio 2010\Projects\notify\notify\obj\x86\Debug\notify.database_settings.resources
+C:\Documents and Settings\sa\Мои документы\Visual Studio 2010\Projects\notify\notify\bin\Debug\MySql.Data.dll
